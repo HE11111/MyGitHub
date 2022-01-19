@@ -54,3 +54,13 @@
 >> 第二层引用
 >>> 第三层引用
 >>>> 第四层引用
+
+```c
+	#include <stdio.h>
+
+	int main(void)
+	{
+		printf("Hello C..\n");
+		return 0;
+	}
+```
